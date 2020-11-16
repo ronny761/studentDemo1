@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     //REQ 01
     //write code to demonstrate that you are working with Point2D
+    public void doIt(){
+        //ronny tries again
+    }
 }
